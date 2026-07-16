@@ -5,7 +5,7 @@ A professional, production-ready Task Tracker web application. It features a cli
 The project also retains its original modular Node.js/Express REST API backend for MERN stack integration.
 
 ---
-
+live : https://santoshray-27.github.io/task-manage/
 ## 🚀 Key Features
 
 *   **Native Drag-and-Drop Kanban Board**: Organizes tasks across three columns: **Pending**, **In Progress**, and **Completed**. Cards display a drop outline, and columns highlight on drag-over.
